@@ -1,4 +1,4 @@
-# code-retreat-starter
+# Projet de départ multi-langages pour la « Code Retreat »
 
 Code de départ pour l'activité de « Code Retreat »
 
