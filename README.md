@@ -1,4 +1,4 @@
-# code-retreat-starter
+# Projet de départ multi-langages pour la « Code Retreat »
 
 Code de départ pour l'activité de « Code Retreat »
 
@@ -7,7 +7,7 @@ Code de départ pour l'activité de « Code Retreat »
 Voir les `readme` dans les différents dossiers pour le fonctionnement de chaque projet.
 
 ### Java
-Projet pré-configuré avec IntelliJ et les dépendances pour `JUnit` 5 et `Mockito`
+Projet pré-configuré avec `Junit 5` et `Mockito` pour l'exécution des tests
 
 ### Python
 Projet pré-configuré, utilise uniquement la librairie de tests unitaires standards de python (`unittest`)
